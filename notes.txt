@@ -1,0 +1,15 @@
+We are gonna be using 
+Three.js a powerful 3d graphics library,
+React Three Fiber,
+Tailwind CSS,
+Framer Motion for animation in React.
+Email.js
+
+The 3d models are in gltf format download them using any free website
+We copied an entire css file (basically gradients, fonts, colors), 3d model, assets folder, and a plain components folder
+A style.js file that states some useful tailwind utility styles. (specifying our own variables that have their own tailwind classes)
+An updated tailwind.css config file, specifying our own tailwind classes.
+A motion.js file inside utils folder,containing framer motion animations.
+An index.js inside constants folder, containing all of the content, services, testimonials, etc inside one file that wwe can change or update later on. 
+
+Basically I destructured every piece of content
