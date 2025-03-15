@@ -200,7 +200,7 @@ import {
     {
       name: "QuizMaster AI",
       description:
-        "Developed a full-stack web application that generates AI-powered quizzes on programming topics, reinforcing users' knowledge and enhancing study eciency.",
+        "Developed a full-stack web application that generates AI-powered quizzes on programming topics, reinforcing users' knowledge and enhancing study efficiency.",
       tags: [
         {
           name: "react",
@@ -222,7 +222,7 @@ import {
     {
       name: "Resume Builder",
       description:
-        "Developed a full-stack Resume Builder web app with React, Node.js, and MongoDB.",
+        "Developed a full-stack Resume Builder web app with React, Node.js, and MongoDB. Integrated user authentication, PDF export functionality to enhance the resume-building experience.",
       tags: [
         {
           name: "react",
