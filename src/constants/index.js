@@ -198,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Ask Me Anything",
+      name: "QuizMaster AI",
       description:
-        "A web application that leverages the Gemini API to create an interactive ask-me-anything (AMA) experience.",
+        "Developed a full-stack web application that generates AI-powered quizzes on programming topics, reinforcing users' knowledge and enhancing study eciency.",
       tags: [
         {
           name: "react",
@@ -211,39 +211,39 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "postgres",
           color: "pink-text-gradient",
         }
       ],
       image: carrent,
-      source_code_link: "https://github.com/anaymehra/gemini-ama",
-      live_demo_link: "https://gemini-ama.vercel.app/"
+      source_code_link: "https://github.com/anaymehra/quiz-app",
+      live_demo_link: "https://quiz-app-kappa-peach.vercel.app/login"
     },
     {
-      name: "Gallery",
+      name: "Resume Builder",
       description:
-        "A gallery app with the Pixabay API, including a search bar and dynamic, animated image displays for a visually engaging experience.",
+        "Developed a full-stack Resume Builder web app with React, Node.js, and MongoDB.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "node.js",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "mongodb",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/anaymehra/gallery",
+      source_code_link: "https://github.com/anaymehra/resume-builder",
     },
     {
-      name: "Keeper",
+      name: "Google Docs Clone",
       description:
-        "Built a To-Do application in React with full CRUD functionality, including task creation, viewing, updating and deletion.",
+        "Developed a real-time collaborative Google Docs clone using Socket.IO and MongoDB, enabling multiple users to edit documents simultaneously.",
       tags: [
         {
           name: "react",
@@ -255,7 +255,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/anaymehra/Todo",
+      source_code_link: "https://github.com/anaymehra/google-docs-clone",
     },
   ];
   
