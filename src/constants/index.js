@@ -222,7 +222,7 @@ import {
     {
       name: "Resume Builder",
       description:
-        "Developed a full-stack Resume Builder web app with React, Node.js, and MongoDB. Integrated user authentication, PDF export functionality to enhance the resume-building experience.",
+        "Developed a full-stack Resume Builder web app with React. Integrated user authentication, PDF export functionality to enhance the resume-building experience.",
       tags: [
         {
           name: "react",
@@ -233,7 +233,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "postgres",
           color: "pink-text-gradient",
         },
       ],
@@ -250,7 +250,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "css",
+          name: "mongodb",
           color: "pink-text-gradient",
         },
       ],
